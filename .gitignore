@@ -880,7 +880,6 @@ venv.bak/
 
 # Data files
 *.csv
-*.json
 *.xml
 *.parquet
 data/
